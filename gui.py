@@ -1,6 +1,6 @@
 import tkinter as tk
-from dgm.agent import PromptAgent
-from dgm.llm_interface import query_openai
+from agent import PromptAgent
+from llm_interface import query_openai
 
 def run_gui():
     agent = PromptAgent()
