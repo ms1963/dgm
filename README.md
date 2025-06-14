@@ -21,9 +21,9 @@ Install all dependencies:
 make install
 
 
-Ensure you have a valid OpenAI/Antrophic API key or an Ollama-compatible LLM installed.
+Ensure you have a valid OpenAI/Antrophic API key or an Ollama-compatible LLM installed. Per default Ollama (Mistral) is used. If you need to use OpenAI or Antrophic APIs instead, you need to change this in the code.
 
-Running the Evolution Loop
+**Running the Evolution Loop**
 
 make run
 
