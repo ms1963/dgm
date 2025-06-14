@@ -1,0 +1,6 @@
+openai
+anthropic
+requests
+z3-solver
+black
+flake8
