@@ -1,5 +1,5 @@
 import argparse
-from dgm.agent import PromptAgent
+from agent import PromptAgent
 from llm_interface import query_openai
 
 def run_cli():
