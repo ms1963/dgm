@@ -1,6 +1,6 @@
 import argparse
 from dgm.agent import PromptAgent
-from dgm.llm_interface import query_openai
+from llm_interface import query_openai
 
 def run_cli():
     parser = argparse.ArgumentParser(description="Darwin-Gödel CLI")
